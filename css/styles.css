@@ -76,6 +76,22 @@ ul {
   padding-top: 100px;
   list-style: none;
 }
-
-
+section {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+ gap: 20px;
+  
+}
+.maquetacion{
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+ align-items: center;
+  margin:20px;
+  font-size: large;
+}
+.maquetacion img{
+width:200px;
+}
 
